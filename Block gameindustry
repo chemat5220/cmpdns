@@ -1,0 +1,944 @@
+#   ____                      ___           _           _                          
+#  / ___| __ _ _ __ ___   ___|_ _|_ __   __| |_   _ ___| |_ _ __ _   _   ___ _   _ 
+# | |  _ / _` | '_ ` _ \ / _ \| || '_ \ / _` | | | / __| __| '__| | | | / _ \ | | |
+# | |_| | (_| | | | | | |  __/| || | | | (_| | |_| \__ \ |_| |  | |_| ||  __/ |_| |
+#  \____|\__,_|_| |_| |_|\___|___|_| |_|\__,_|\__,_|___/\__|_|   \__, (_)___|\__,_|
+#                                                                |___/             
+#
+﻿# Erhöhter Schutz vor Spyware, Advertising, Analytics, Tracking in Spielen
+# Stärkung der eigenen Privatsphäre auf Internetseiten und Programmen
+#
+# Version: hosts Template für deutsche Städte und Gemeinden
+# Änderungsdatum: 02.05.2020
+#
+# Diese Datei stammt von https://www.gameindustry.eu
+# Kontaktmail: noreply@gameindustry.eu
+# Hilfe: https://hosts.gameindustry.eu/faq/
+# Kontakt: https://www.gameindustry.eu/u/kontakt/
+# Steam: https://www.steamcommunity.com/groups/Penguindome
+#
+# Lizenz: CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+#
+# License: CC BY-NC-SA 4.0
+# https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+#
+# Es ist gestattet, die host Dateien für nicht-kommerzielle Zwecke zu verwenden,
+# solange auf angemessene Urheber/Rechteangaben mitsamt Link verwiesen wird.
+#
+# --- Ab hier kopieren ---
+
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+
+# Aachen | Aachen.de
+0.0.0.0 static.etracker.com
+0.0.0.0 server.adform.net
+0.0.0.0 eas4.emediate.eu
+
+# Abenberg | Abenberg.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm03.cmcitymedia.de
+
+# Abensberg | Abensberg.de
+0.0.0.0 www.googletagmanager.com # GTM-TPQTJ5
+
+# Ahlen | Ahlen.de
+0.0.0.0 jobs.b-ite.com # Jobwerbung
+0.0.0.0 cs-assets.b-ite.com
+0.0.0.0 static.b-ite.com
+
+# Aken | Aken.de
+0.0.0.0 analytics.geocms.com # Piwik
+
+# Albstadt | Albstadt.de
+0.0.0.0 s7.addthis.com
+
+# Altensteig | Altensteig.de
+0.0.0.0 www.google-analytics.com
+
+# Amberg | Amberg.de
+0.0.0.0 www.google-analytics.com
+
+# Anklam | Anklam.de
+0.0.0.0 piwik.advantic.de
+
+# Ansbach | Ansbach.de
+0.0.0.0 piwik.advantic.de
+
+# Arnstadt | Arnstadt.de
+0.0.0.0 www.google-analytics.com
+0.0.0.0 piwikcm03.cmcitymedia.de
+
+# Aßlar | Asslar.de
+# {- Piwik www.asslar.de/piwik/piwik.php und *.js -}
+
+# Aschaffenburg | Aschaffenburg.de
+0.0.0.0 www.google-analytics.com
+
+# Asperg | Asperg.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm05.cmcitymedia.de
+
+# Attendorn | Attendorn.de
+0.0.0.0 piwik.advantic.de
+
+# Aulendorf | Aulendorf.de
+0.0.0.0 www.google-analytics.com
+
+# Aurich | Aurich.de
+# {- Piwik www.aurich.de/piwik/piwik.php und *.js -}
+
+# Bad Iburg | Badiburg.de
+0.0.0.0 tracking-nc.chamaeleon.de # Piwik
+
+# Bad Salzuflen | Stadt-bad-salzuflen.de
+0.0.0.0 cdn.mouseflow.com # Session Replay/Heatmap usw
+0.0.0.0 www.google-analytics.com
+0.0.0.0 web4.deskline.net
+0.0.0.0 resc.deskline.net
+
+# Bad-Schwartau | Bad-schwartau.de
+0.0.0.0 piwik.advantic.de
+
+# Bad Segeberg | Segeberg.de
+# {- Piwik unter /piwik/piwik.php und *.js -}
+
+# Bayreuth | Bayreuth.de
+0.0.0.0 piwik.bayreuth.de
+
+# Berlin | Berlin.de
+# {- Nutzt Webtrekk Tracking - Unter https://www.berlin.de/-wt-safetag.js -}
+0.0.0.0 vresda.berlinonline.net
+0.0.0.0 w7.berlin.de
+
+# Bielefeld | Bielefeld.de
+0.0.0.0 statistik.rz-betrieb.de # Piwik
+
+# Bocholt | Bocholt.de
+0.0.0.0 piwik.bocholt.de
+
+# Bochum | Bochum.de
+# {- Piwik www.bochum.de/piwik/piwik.js und *.php -}
+
+# Bonn | Bonn.de
+0.0.0.0 tracking.bonn.de
+
+# Borken | Borken.de
+0.0.0.0 piwik2.citkomm.de
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+
+# Borkum | Borkum.de
+0.0.0.0 ssl.optimale-praesentation.de
+
+# Bornheim | Bornheim.de
+0.0.0.0 www.googletagmanager.com # UA-118278464-1
+
+# Bottrop | Bottrop.de
+0.0.0.0 piwik.bottrop.de
+
+# Braunschweig | Braunschweig.de
+0.0.0.0 piwik.braunschweig.de
+
+# Brandenburg an der Havel | Stadt-brandenburg.de
+# {- Tracker unter www.stadt-brandenburg.de/piwik/piwik.js und *.php -}
+
+# Bremen | Bremen.de
+# {- Hier viel auf Instagram ausgelagert, dazu noch Google und Plista Werbung -}
+0.0.0.0 s.adadapter.netzathleten-media.de
+
+# Bremerhaven | Bremerhaven.de
+0.0.0.0 stats.bremerhaven.de # Piwik
+
+# Brilon | Brilon.de
+0.0.0.0 sw.rz0.eu # Piwik
+
+# Bruchsal | Bruchsal.de
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Buxtehude | Buxtehude.de
+0.0.0.0 piwik.wizard.de
+
+# Calw | Calw.de
+0.0.0.0 www.google-analytics.com
+
+# Celle | Celle.de
+0.0.0.0 piwik.advantic.de
+
+# Cham | Cham.de
+0.0.0.0 app.cham.de # Piwik
+
+# Chemnitz | Chemnitz.de
+# {- Piwik unter /piwik/piwik.php und *.js -}
+
+# Clingen | Clingen.net
+0.0.0.0 www.google-analytics.com
+
+# Coburg | Coburg.de
+0.0.0.0 piwik-coburg.fortuna-webserver.de
+
+# Cochem | Cochem.de
+# {- Piwik unter stadtcochem.de/piwik/piwik.js -}
+
+# Coesfeld | Coesfeld.de
+# {- Piwik unter /piwik/piwik.php und *.js -}
+
+# Colditz | Colditz.de
+0.0.0.0 www.google-analytics.com
+
+# Creglingen | Creglingen.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm02.cmcitymedia.de
+
+# Creuzburg | Creuzburg-online.de
+0.0.0.0 ws-eu.amazon-adsystem.com
+
+# Delmenhorst | Delmenhorst.de
+0.0.0.0 piwik.sitepark.com
+
+# Detmold | Detmold.de
+0.0.0.0 static.etracker.com
+
+# Dinslaken | Dinslaken.de
+0.0.0.0 static.etracker.com
+0.0.0.0 www.krzn.de # Cookie Consent
+
+# Dissen am Teutoburger Wald | Dissen.de
+0.0.0.0 piwik.t4m.me
+
+# Dormagen | Dormagen.de
+0.0.0.0 piwik.dormagen.de
+
+# Dortmund | Dortmund.de
+0.0.0.0 webstat.dortmund.de # Piwik
+
+# Dreieich | Dreieich.de
+0.0.0.0 piwik.sitepark.com
+
+# Dresden | Dresden.de
+0.0.0.0 cdn.nativendo.de
+0.0.0.0 static.etracker.com
+
+# Düsseldorf | Duesseldorf.de
+0.0.0.0 static.etracker.com
+
+# Duisburg | Duisburg.de
+0.0.0.0 wsts.duit.de # Piwik
+
+# Eckenförde | Eckernfoerde.de
+0.0.0.0 s7.addthis.com
+0.0.0.0 piwik.advantic.de
+
+# Eisenach | Eisenach.de
+0.0.0.0 www.google-analytics.com
+
+# Emden | Emden.de
+0.0.0.0 piwik.emden.de
+
+# Erftstadt | Erftstadt.de
+# {- Tracker unter www.erftstadt.de/awt-pw/piwik.js -}
+0.0.0.0 unifiedgeo.geotech.yahoo.com # durch die Wetter/Queri-Api Yahoo aufgerufen
+
+# Erfurt | Erfurt.de
+0.0.0.0 piwik.erfurt.de
+
+# Erlangen | Erlangen.de
+0.0.0.0 erlangen.symanics.net # Piwik
+0.0.0.0 www.stoerung24.de
+
+# Essen | Essen.de
+0.0.0.0 piwik.essen.de
+
+# Flensburg | Flensburg.de
+0.0.0.0 piwik.advantic.de
+
+# Frankfurt am Main | Frankfurt.de
+# {- Tracker unter Hauptdomain frankfurt.de/sis/scripte/tracker-proxy/piwik.php -}
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
+
+# Freiburg im Breisgau | Freiburg.de
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Freudenstadt | Freudenstadt.de
+0.0.0.0 www.google-analytics.com
+0.0.0.0 adventskalender.hitcom.de
+
+# Friedrichshafen | Friedrichshafen.de
+0.0.0.0 www.googletagmanager.com # UA-114522646-1
+0.0.0.0 analytics.friedrichshafen.de # Piwik
+
+# Fulda | Fulda.de
+0.0.0.0 playercdn.earthtv.com # Vermischt mit Google Ads
+0.0.0.0 www.google-analytics.com
+
+# Fürth | Fuerth.de
+0.0.0.0 static.etracker.com
+0.0.0.0 fuerth.symanics.net # Piwik
+
+# Gelsenkirchen | Gelsenkirchen.de
+0.0.0.0 ads.gelsen.net
+0.0.0.0 webstatistik.gelsenkirchen.de # Piwik
+
+# Gera | Gera.de
+# {- www.gera.de/sixcms/detail.php -}
+0.0.0.0 stats.gera.de # Piwik
+
+# Gersthofen | Gersthofen.de
+0.0.0.0 www.google-analytics.com
+
+# Georgsmarienhütte | Georgsmarienhuette.de
+0.0.0.0 piwik.nol-is.de
+
+# Gevelsberg | Gevelsberg.de
+0.0.0.0 s7.addthis.com
+
+# Gießen | Giessen.de
+0.0.0.0 piwik.advantic.de
+0.0.0.0 ssl.optimale-praesentation.de
+
+# Göppingen | Goeppingen.de
+0.0.0.0 statistik.kdrs.de # Piwik
+
+# Görlitz | Goerlitz.de
+0.0.0.0 www.google-analytics.com
+
+# Greifswald | Greifswald.de
+0.0.0.0 www.google-analytics.com
+
+# Greven | Greven.de
+0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
+0.0.0.0 api.userlike.com
+0.0.0.0 dq4irj27fs462.cloudfront.net
+0.0.0.0 www.meinungsmeister.de
+
+# Gronau | Gronau.de
+0.0.0.0 advantic.webtrekk.net
+0.0.0.0 piwik.advantic.de
+
+# Gummersbach | Gummersbach.de
+0.0.0.0 www.google-analytics.com
+
+# Hamburg | Hamburg.de
+0.0.0.0 www.google-analytics.com # UA-73260928-1
+
+# Hameln | Hameln.de
+0.0.0.0 www.google-analytics.com
+
+# Hamm | www.hamm.de
+0.0.0.0 www.google-analytics.com
+
+# Hanau | Hanau.de
+0.0.0.0 www.googletagmanager.com # UA-94071915-1
+0.0.0.0 www.google-analytics.com
+
+# Hannover | Hannover.de
+# {- https://www.hannover.de/assets/piwik.51770ac2275093adf06a.js -}
+0.0.0.0 piwik.hannover.de
+0.0.0.0 script.ioam.de
+
+# Harsewinkel | Harsewinkel.de
+# {- Twitter und Facebook Anbindung -}
+0.0.0.0 tracking-nc.chamaeleon.de
+
+# Hattingen | Hattingen.de
+0.0.0.0 www.google-analytics.com
+
+# Heidelberg | Heidelberg.de
+0.0.0.0 ww2.heidelberg.de # Piwik
+
+# Heilbronn | Heilbronn.de
+0.0.0.0 piwik.heilbronn.de
+
+# Heinsberg | Heinsberg.de
+0.0.0.0 analytics-org.mmserver.eu # Piwik und Clickheat
+
+# Herne | Herne.de
+0.0.0.0 www.google-analytics.com
+
+# Hildesheim | Hildesheim.de
+0.0.0.0 citywerk.net # Piwik
+0.0.0.0 sparkasse-hgp.adspirit.de
+
+# Hockenheim | Hockenheim.de und Hockenheim.eu
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Horn-Bad Meinberg | Horn-badmeinberg.de
+0.0.0.0 piwik.krz.de
+
+# Idar-Oberstein | idar-oberstein.de
+0.0.0.0 stats.g.doubleclick.net
+
+# Idstein | Idstein.de
+# {- www.idstein.de/js/awstats_misc_tracker.js -}
+
+# Ilsenburg im Harz | Ilsenburg.de
+0.0.0.0 www.google-analytics.com
+
+# Ingolstadt | Ingolstadt.de
+0.0.0.0 piwik.advantic.de
+0.0.0.0 fpa.invg.de
+
+# Iphofen | Iphofen.de
+0.0.0.0 www.google-analytics.com
+
+# Iserlohn | Iserlohn.de
+0.0.0.0 piwik2.citkomm.de
+
+# Jena | Jena.de
+0.0.0.0 piwik.jena.de
+
+# Jessen | Jessen.de
+0.0.0.0 176.9.103.72 # Piwik
+
+# Johanngeorgenstadt | Johanngeorgenstadt.de
+0.0.0.0 analytics.kabeljournal.de # Piwik
+
+# Jöhstadt | Joehstadt.de
+# {- Piwik unter www.joehstadt.de/Analytics/index.js und *.php -}
+
+# Jülich | Juelich.de
+0.0.0.0 cse.google.com # Google Adsense
+0.0.0.0 cs-assets.b-ite.com # Jobwerbung
+
+# Kaarst | Kaarst.de
+0.0.0.0 piwik.itk-rheinland.de
+
+# Kaiserslautern | Kaiserslautern.de
+# {- www.kaiserslautern.de/piwik/piwik.js und *.php -}
+
+# Karlsruhe | Karlsruhe.de
+0.0.0.0 dienste.karlsruhe.de # Piwik
+
+# Kassel | Kassel.de
+0.0.0.0 stats.kassel.de # Piwik
+
+# Kaufbeuren | Kaufbeuren.de
+0.0.0.0 www.google-analytics.com
+
+# Kempen | Kempen.de
+0.0.0.0 code.etracker.com
+
+# Kiel | Kiel.de
+# {- Piwik Nr2 unter www.kiel.de/0-technik/inc/piwik.php -}
+0.0.0.0 monitor.kiel.de # Piwik
+
+# Kitzingen | Kitzingen.de
+0.0.0.0 statistik.kitzingen.de # Piwik
+
+# Kleve | Kleve.de
+0.0.0.0 code.etracker.com
+
+# Krefeld | Krefeld.de
+0.0.0.0 static.etracker.com
+0.0.0.0 static.doubleclick.net
+
+# Köln | Koeln.de
+0.0.0.0 ed.koeln.de
+
+# Lage | Lage.de
+0.0.0.0 piwik.krz.de
+
+# Landshut | Landshut.de
+0.0.0.0 www.google-analytics.com
+
+# Langenau | Langenau.de
+0.0.0.0 www.google-analytics.com
+
+# Langenhagen | Langenhagen.de
+0.0.0.0 track.webtrekk.de
+0.0.0.0 piwik.advantic.de
+
+# Laubach | Laubach-online.de
+0.0.0.0 www.google-analytics.com
+
+# Leipheim | Leipheim.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+#0.0.0.0 publish.cmcitymedia.de # Teaserbilder 
+0.0.0.0 piwikcm03.cmcitymedia.de
+
+# Leipzig.de | Leipzig.de
+0.0.0.0 werbung.leipzig.de
+0.0.0.0 redirect.madsack-adcenter.de
+0.0.0.0 data.leipzig.de
+0.0.0.0 leipzigde01.webtrekk.net
+0.0.0.0 geid.wbtrk.net
+0.0.0.0 cdn.wbtrk.net
+
+# Leverkusen | Leverkusen.de
+0.0.0.0 rtwa.leverkusen.de # Piwik
+
+# Lichtenberg | Stadt-lichtenberg.de
+0.0.0.0 statistics.entire-media.de # Piwik
+
+# Limburg an der Lahn | Limburg.de
+0.0.0.0 piwik.advantic.de
+
+# Lingen | Lingen.de
+0.0.0.0 ssl.google-analytics.com
+
+# Linnich | Linnich.de
+0.0.0.0 partner.dasoertliche-marketing.de
+0.0.0.0 www.energieeffizienz-fuer-buerger.de
+
+# Ludwigshafen am Rhein | Ludwigshafen.de
+0.0.0.0 www.google-analytics.com
+
+# Lünen | Luenen.de
+# {- www.luenen.de/js/awstats_misc_tracker.js -}
+
+# Magdeburg | Magdeburg.de
+# {- www.magdeburg.de/phpAdServer/www/delivery/lg.php -}
+0.0.0.0 piwik.advantic.de
+
+# Maintal | Maintal.de
+0.0.0.0 statistik.maintal.de # Piwik
+
+# Mainz | Mainz.de
+0.0.0.0 mz-piwik.sitepark.com
+
+# Minden | Minden.de
+# {- www.minden.de/stadt_minden/phoenix/javascripts/searchalyzrJS.js  -}
+0.0.0.0 tracking-nc.chamaeleon.de
+
+# Moers | Moers.de
+0.0.0.0 static.etracker.com
+0.0.0.0 static.doubleclick.net
+
+# Monheim am Rhein | Monheim.de
+0.0.0.0 stats.monheim.de # Piwik
+0.0.0.0 www.google-analytics.com
+0.0.0.0 static.doubleclick.net
+
+# Münster | Muenster.de
+0.0.0.0 piwik.muenster.de
+
+# Nettetal | Nettetal.de
+0.0.0.0 code.etracker.com
+
+# Neubrandenburg | Neubrandenburg.de
+0.0.0.0 piwik.advantic.de
+
+# Neuss | Neuss.de
+0.0.0.0 pwk.neuss.de
+
+# Neustadt an der Weinstraße | Neustadt.eu
+0.0.0.0 piwik.advantic.de
+
+# Norderstedt | Norderstedt.de
+0.0.0.0 piwik.advantic.de
+
+# Offenbach am Main | Offenbach.de
+0.0.0.0 offenbach.stats.mysnip-hosting.de # Piwik
+
+# Oldenburg | Oldenburg.de
+0.0.0.0 piwik.oldenburg.de
+
+# Oranienburg | Oranienburg.de
+0.0.0.0 analyse.oranienburg.de # Piwik
+
+# Osnabrück | Osnabrueck.de
+0.0.0.0 piwik.osnabrueck.de
+
+# Paderborn | Paderborn.de
+0.0.0.0 piwik.paderborn.de
+
+# Papenburg | Papenburg.de
+0.0.0.0 piwik.papenburg.de
+
+# Parsberg | Parsberg.de
+0.0.0.0 www.googletagmanager.com # UA-54670846-3
+
+# Passau | Passau.de
+0.0.0.0 statistik.livingdata.de # Piwik
+
+# Pegau | Pegau.de
+0.0.0.0 www.google-analytics.com
+
+# Pegnitz | Pegnitz.de
+0.0.0.0 statistik.livingdata.de # Piwik
+
+# Penig | Penig.de
+0.0.0.0 piwik.cotec-it-systeme.de
+
+# Penkun | Penkun.de
+0.0.0.0 c.andyhoppe.com # Counter
+
+# Pforzheim | Pforzheim.de
+0.0.0.0 stats.pf.webseiten.cc # Piwik
+#0.0.0.0 di0pda1wg490s.cloudfront.net # Grafiken
+
+# Pfreimd | Pfreimd.de
+#0.0.0.0 publish1.cmcitymedia.de # Kalender
+0.0.0.0 piwikcm03.cmcitymedia.de # Piwik Analytics
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+
+# Pfullendorf | Pfullendorf.de
+# {- pfullendorf.de/weblication/grid5/gui/scripts/wClickLogger.js -}
+0.0.0.0 www.google-analytics.com
+
+# Pfullingen | Pfullingen.de
+0.0.0.0 www.google-analytics.com
+
+# Philippsburg | Philippsburg.de
+0.0.0.0 matomo.philippsburg.de # Piwik
+
+# Pirmasens.de | Pirmasens.de
+0.0.0.0 piwik.pirmasens.de
+
+# Pirna | Pirna.de
+# {- Piwik unter www.pirna.de/piwik/piwik.js -}
+
+# Plauen | Plauen.de
+# {- Piwik unter www.plauen.de/piwik/piwik.js und *.php -}
+
+# Plochingen | Plochingen.de
+0.0.0.0 statistik.kdrs.de # Piwik
+
+# Potsdam | Potsdam.de
+0.0.0.0 piwik.werk21system.de
+
+# Pottenstein | Pottenstein.de
+# {- Piwik unter www.pottenstein.de/piwik/piwik.js und *.php -}
+
+# Preetz | Preetz.de
+0.0.0.0 piwik.advantic.de
+
+# Quedlinburg | Quedlinburg.de
+# {- Piwik unter http://www.quedlinburg.de/piwik/piwik.js -}
+
+# Rastatt | Rastatt.de
+# {- Piwik unter https://www.rastatt.de/piwik/piwik.js -}
+
+# Ratingen | Ratingen.de
+0.0.0.0 static.etracker.com
+
+# Ravensburg | Ravensburg.de
+0.0.0.0 stats.ravensburg.de # Piwik
+
+# Recklinghausen | Recklinghausen.de
+0.0.0.0 www.gkd-re.de
+
+# Remscheid | Remscheid.de
+# {- Facebook Anbindung -}
+0.0.0.0 piwik.sitepark.com
+
+# Reutlingen | Reutlingen.de
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 www.google-analytics.com
+
+# Rheda-Wiedenbrueck | Rheda-wiedenbrueck.de
+0.0.0.0 statistiken.gt-net.de # Piwik
+
+# Rheinberg | Rheinberg.de
+0.0.0.0 code.etracker.com
+
+# Rosenheim | Rosenheim.de
+0.0.0.0 statistik.rosenheim.de # Piwik
+
+# Rostock | Rostock.de
+# {- Facebook Anbindung -}
+0.0.0.0 www.google-analytics.com
+
+# Rüsselsheim am Main | Ruesselsheim.de
+0.0.0.0 analytics.stadt-ruesselsheim.de # Piwik
+
+# Saarbrücken | Saarbruecken.de
+0.0.0.0 adn.meinsol.de # Sparkassenwerbung
+0.0.0.0 code.etracker.com
+
+# Salzgitter | Salzgitter.de
+0.0.0.0 ssl.google-analytics.com
+
+# Schramberg | Schramberg.de
+0.0.0.0 www.google-analytics.com
+
+# Schwerin | Schwerin.de
+0.0.0.0 piwik.sis-schwerin.de # Inklusiv Headmap Session Recording
+
+# Senden in Westfalen | Senden-westfalen.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm03.cmcitymedia.de
+
+# Senden an der Iller | Stadt-senden.de
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+
+# Siegburg | Siegburg.de
+# {- Piwik unter www.siegburg.de/applications/piwik/piwik.php und *.js -}
+
+# Sindelfingen | Sindelfingen.de
+0.0.0.0 statistik.kdrs.de # Piwik
+
+# Solingen | Solingen.de
+0.0.0.0 static.etracker.com
+0.0.0.0 m790intranet.rz.krzn.de
+
+# Speyer | Speyer.de
+0.0.0.0 www.google-analytics.com
+
+# Stuttgart | Stuttgart.de
+0.0.0.0 matomo.stuttgart.de # Piwik
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+
+# Tanna | Stadt-tanna.de
+0.0.0.0 sportverein.stadt-tanna.de
+
+# Taunusstein | Taunusstein.de
+0.0.0.0 s7.addthis.com
+
+# Tecklenburg | Tecklenburg.de
+0.0.0.0 ds-4047.kxcdn.com
+
+# Tegernsee | Stadt.tegernsee.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm03.cmcitymedia.de
+
+# Telgte | Telgte.de
+0.0.0.0 citywerk.net # Piwik
+
+# Tessin | Stadt-tessin.de
+# {- Facebook Anbindung -}
+0.0.0.0 www.google-analytics.com
+0.0.0.0 s7.addthis.com # ra-536530f652c04fc6
+0.0.0.0 www.besucherzaehler-counter.com
+
+# Tittmoning | Tittmoning.de
+0.0.0.0 s7.addthis.com # ra-551a3f2b659a2da2
+
+# Töging am Inn| Toeging.de
+# {- Soviel zu "modernen" Anforderungen ^^ Dazu gibt es noch Trackingcookies umsonst -}
+0.0.0.0 cse.google.com # Google Adsense
+0.0.0.0 unifiedgeo.geotech.yahoo.com
+
+# Tönning | Toenning.de
+0.0.0.0 valao.de # Cookiehinweis gemischt mit AmazonaWS
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+
+# Torgau | Torgau.de
+0.0.0.0 www.google-analytics.com
+
+# Tornesch | Tornesch.de
+0.0.0.0 piwik.advantic.de
+
+# Traben-Trarbach | Traben-trarbach.de
+0.0.0.0 www.google-analytics.com
+
+# Traunstein | Traunstein.de
+0.0.0.0 static.etracker.com
+
+# Trendelburg | Trendelburg.de
+# {- Facebook Anbindung -}
+0.0.0.0 ssl.google-analytics.com
+
+# Trier | Trier.de
+# {- Unter trier.de/urchin.js ist Google Analytics versteckt -}
+0.0.0.0 static.b-ite.com
+
+# Triptis VG | Triptis.de
+0.0.0.0 www.google-analytics.com
+
+# Tuttlingen | Tuttlingen.de
+0.0.0.0 www.google-analytics.com
+
+# Überlingen | Ueberlingen.de
+0.0.0.0 statistik.kdrs.de
+
+# Uebigau-Wahrenbrück | Uebigau-wahrenbrueck.de
+0.0.0.0 piwik.uebigau-wahrenbrueck.de
+
+# Uelzen | Uelzen.de
+0.0.0.0 cookies.mplg-service.de
+0.0.0.0 mplg.info # Piwik
+
+# Uetersen | Uetersen.de
+# {- Tracker unter uetersen.de/rvha_stati/piwik.js und *.php -}
+
+# Uhingen | Uhingen.de
+0.0.0.0 statistik.kdrs.de # Piwik
+
+# Ulm | Ulm.de
+0.0.0.0 statistik.ulm.de # Piwik
+
+# Ulrichstein | Ulrichstein.de
+0.0.0.0 ulrichstein.piwikcloud.de
+
+# Ummerstadt | Ummerstadt.de
+0.0.0.0 www.counter-go.de
+
+# Unkel | Unkel-kulturstadt.de
+0.0.0.0 www.google-analytics.com
+
+# Unna | Unna.de
+# {- www.unna.de/piwik/piwik.js und *.php -}
+
+# Unterschleissheim | Unterschleißheim.de
+0.0.0.0 piwik3.datamints.com
+
+# Usedom | Usedom.de
+0.0.0.0 www.googletagmanager.com # UA-2636394-1
+
+# Uslar | Uslar.de
+0.0.0.0 cnt.wetteronline.de
+
+# Vaihingen an der Enz | Vaihingen.de
+0.0.0.0 statistik.vaihingen.de
+
+# Vechta | Vechta.de
+0.0.0.0 piwik.is45010.itebo.de
+
+# Viechtach | Viechtach.de
+0.0.0.0 ssl.google-analytics.com
+
+# Vienenburg | Vienenburg.de
+0.0.0.0 www.google-analytics.com
+
+# Viernheim | Viernheim.de
+0.0.0.0 stats.pixelegg.de # Piwik
+
+# Viersen | Viersen.de
+0.0.0.0 code.etracker.com
+
+# Visselhövede | Visselhoevede.de
+0.0.0.0 www.google-analytics.com
+
+# Voerde | Voerde.de
+0.0.0.0 code.etracker.com
+
+# Vöhrenbach | Voehrenbach.de
+0.0.0.0 static.doubleclick.net
+
+# Volkach | Volkach.de
+0.0.0.0 static.doubleclick.ne
+
+# Vreden | Vreden.de
+0.0.0.0 cdn.mystrait.de # Cookieconsent
+0.0.0.0 ssl.google-analytics.com # UA-105095156-1
+
+# Waiblingen | Waiblingen.de
+0.0.0.0 www.google-analytics.com
+
+# Waibstadt | Waibstadt.de
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Waldenbuch | Waldenbuch.de
+0.0.0.0 statistik.kdrs.de # Piwik
+
+# Waldkirch | Waldkirch.de
+0.0.0.0 www.google-analytics.com
+
+# Warburg | Warburg.de
+0.0.0.0 matomo.warburg.de # Piwik
+
+# Warendorf | Warendorf.de
+0.0.0.0 www.googletagmanager.com # UA-31063134-1
+
+# Wedel | Wedel.de
+0.0.0.0 static.etracker.com
+
+# Weinheim | Weinheim.de
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Wesel | Wesel.de
+0.0.0.0 static.etracker.com
+0.0.0.0 www.krzn.de # Scripts Cookieconsent
+
+# Wetzlar | Wetzlar.de
+0.0.0.0 piwik.sitepark.com
+
+# Wiesbaden | Wiesbaden.de
+0.0.0.0 www.gewusst-wo.de # Anzeigen
+0.0.0.0 gewusst-wo.pronet-webengine.net
+0.0.0.0 apps.wiesbaden.de # Piwik
+
+# Willich | Stadt-willich.de/
+0.0.0.0 static.etracker.com
+
+# Winsen an der Luhe | Winsen.de
+0.0.0.0 piwik-harburg.nol-is.de
+
+# Winterberg | Winterberg.de
+0.0.0.0 www.googletagmanager.com # GTM-5CKJK2
+
+# Wismar | Wismar.de
+0.0.0.0 piwik.advantic.de
+
+# Verbandsgemeinde Wissen | Wissen.eu und Stadt-wissen.de
+0.0.0.0 piwik.advantic.de
+
+# Witten | Witten.de
+0.0.0.0 piwik2.citkomm.de
+
+# Wolfsburg | Wolfsburg.de
+0.0.0.0 siteimproveanalytics.com
+0.0.0.0 ssl.siteimprove.com
+
+# Worms | Worms.de
+0.0.0.0 www.google-analytics.com
+
+# Wuppertal | Wuppertal.de
+0.0.0.0 piwik1.wuppertal.de
+
+# Würzburg | Wuerzburg.de
+0.0.0.0 static.etracker.com
+
+# Xanten | Xanten.de
+0.0.0.0 static.etracker.com
+
+# Zeil am Main | Zeil-am-main.de
+0.0.0.0 static.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+
+# Zeitz | Zeitz.de
+0.0.0.0 analytics.braingeocms.de # Piwik
+
+# Zell am Harmersbach | Zell.de
+0.0.0.0 statistik.kivbf.de # Piwik
+
+# Zell im Wiesental | Zell-im-wiesental.de
+0.0.0.0 www.googletagmanager.com # GTM-TVL985
+0.0.0.0 piwikcm05.cmcitymedia.de
+
+# Zeven | Zeven.de
+# {- hamburgwhl.infomaxnet.de/pagespeed_static/1.JiBnMqyl6S.gif -}
+0.0.0.0 www.google-analytics.com
+
+# Ziesar | Ziesar.de
+0.0.0.0 www.google-analytics.com
+
+# Zirndorf | Zirndorf.de
+# {- 2x Piwik hier -}
+0.0.0.0 wp1169832.server-he.de
+0.0.0.0 www.ergolding.de
+
+# Zittau | Zittau.de
+0.0.0.0 matomo.av-studio.de # Piwik
+
+# Zörbig | Stadt-zoerbig.de
+0.0.0.0 s7.addthis.com
+0.0.0.0 a.stadt-zoerbig.de # Piwik
+
+# Zülpich | Zuelpich.de
+0.0.0.0 www.google-analytics.com
+0.0.0.0 cdn.polyfill.io # Tracking Useragents
+0.0.0.0 widgets.ubimet.com # Google Interactive Media Ads
+
+# Zwickau | Zwickau.de
+# {- info.zwickau.de/www/delivery/lg.php -}
+0.0.0.0 static.etracker.com
+
+# Zwiesel | Zwiesel.de
+0.0.0.0 www.google-analytics.com
