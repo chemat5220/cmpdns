@@ -1,0 +1,219 @@
+# Bund.de
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bundesregierung.de
+# 185.49.16.235
+0.0.0.0 analytics.bundesregierung.de
+
+# Bundestag.de - Deutscher Bundestag
+# 46.243.122.83
+# 46.18.247.227
+0.0.0.0 statistik.bundestag.de
+0.0.0.0 analytics.tv1.eu
+
+# Bundesrat.de - Bundesrat
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bpb.de - Bundeszentrale für politische Bildung
+# 212.29.25.132
+# 91.215.103.64
+# 91.215.103.65
+# 212.29.25.169
+0.0.0.0 piwik.bpb.de
+0.0.0.0 shariff.bpb.de
+0.0.0.0 script.ioam.de
+0.0.0.0 de.ioam.de
+
+# Bundesfinanzministerium.de - Bundesministerium der Finanzen
+# 195.43.52.218
+0.0.0.0 analytics.init.de
+
+# Bundesgesundheitsministerium.de - Bundesministerium für Gesundheit
+# 172.64.139.5
+# 18.185.41.20
+0.0.0.0 siteimproveanalytics.com
+0.0.0.0 26776.global.siteimproveanalytics.io
+
+# Bmz.de - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+# 185.132.24.13
+0.0.0.0 statistik.bmz.de
+
+# Bafa.de - Bundesamt für Wirtschaft und Ausfuhrkontrolle
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bfdi.bund.de - Bunbesbeauftragter für Datenschutz und Informationsfreiheit
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bundespolizei.de - Bundespolizei
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bka.de - Bundeskriminalamt
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Auswaertiges-Amt.de - Auswärtiges Amt
+# 46.243.125.91
+0.0.0.0 piwik.auswaertiges-amt.de
+
+# Zoll.de - Generalzolldirektion
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Destatis.de - Statistisches Bundesamt
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bmjv.de - Bundesministerium der Justiz und für Verbraucherschutz
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bstu.de - Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
+# 89.146.236.2
+0.0.0.0 matomo.bstu.de
+
+# Bbk.bund.de - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bafin.de - Bundesanstalt für Finanzdienstleistungsaufsicht
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bmi.bund.de - Bundesministerium des Inneren für Bau und Heimat
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bmwi.de - Bundesministerium für Wirtschaft und Energie
+# 62.201.164.113
+# 62.201.164.117
+# 104.74.105.177
+0.0.0.0 code.etracker.com
+0.0.0.0 www.etracker.de
+
+# Bmas.de - Bundesministerium für Arbeit und Soziales
+# 62.201.164.113
+# 62.201.164.117
+# 104.74.105.177
+0.0.0.0 www.etracker.de
+0.0.0.0 static.etracker.com
+0.0.0.0 code.etracker.com
+
+# Bundesjustizamt.de - Bundesamt für Justiz
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bmfsfj.de - Bundesminestierum für Familie, Senioren, Frauen und Jugend
+# 62.201.164.113
+# 62.201.164.117
+# 104.74.105.177
+0.0.0.0 www.etracker.de
+0.0.0.0 static.etracker.com
+0.0.0.0 code.etracker.com
+
+# Bmbf.de - Bundesministerium für Bildung und Forschung
+# 93.191.166.215
+0.0.0.0 tracking.bmbfcluster.de
+
+# Bzga.de - Bundeszentrale für gesundheitliche Aufklärung
+# 194.153.219.100
+0.0.0.0 piwik.bzga.de
+
+# Bzst.de - Bundeszentralamt für Steuern
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Verfassungsschutz.de - Bundesamt für Verfassungsschutz
+# 217.115.147.247
+0.0.0.0 piwik.verfassungsschutz.de
+
+# Bundesarchiv.de - Das Bundesarchiv
+# 62.201.164.113
+# 62.201.164.117
+# 104.74.105.177
+0.0.0.0 www.etracker.de
+0.0.0.0 static.etracker.com
+0.0.0.0 code.etracker.com
+
+# Itzbund.de - Informations-Technik-Zentrum-Bund
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bmu.de - Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
+# 85.220.144.6
+0.0.0.0 piwik-bmu.cps-projects.de
+
+# Bmvi.de - Bundesministerium für Verkehr und digitale Infrastruktur
+# 62.201.164.113
+# 62.201.164.117
+# 104.74.105.177
+0.0.0.0 www.etracker.de
+0.0.0.0 static.etracker.com
+0.0.0.0 code.etracker.com
+
+# Bmel.de - Bundesministerium für Ernährung und Landwirtschaft
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Bamf.de - Bundesamt für Migration und Flüchtlinge
+# 80.245.152.141
+0.0.0.0 piwik.itzbund.de
+
+# Es folgen Bund und Länder
+
+# Nordrhein Westfalen
+0.0.0.0 empathy-portal.de # WebRTC
+0.0.0.0 piwik.nrw.de
+
+# Niedersachsen
+# Tracker unter niedersachsen.de/piwik.php
+0.0.0.0 www.stk.niedersachsen.de
+
+# Mecklenburg Vorpommern
+0.0.0.0 siteimproveanalytics.com
+
+# Baden-Württemberg
+0.0.0.0 piwik.baden-wuerttemberg.de
+
+# Bayern
+0.0.0.0 www.piwik.bayern.de
+
+# Sachsen-Anhalt
+0.0.0.0 stats.sachsen-anhalt.de
+
+# Brandenburg
+0.0.0.0 piwik.brandenburg.de
+
+# Rheinland Pfalz
+0.0.0.0 piwik.rlp.de
+
+# Thüringen
+0.0.0.0 static.etracker.com
+0.0.0.0 www.etracker.de
+0.0.0.0 code.etracker.com
+
+# Schleswig Holstein
+0.0.0.0 matomo.schleswig-holstein.de
+
+# Saarland
+# Tracker unter https://www.saarland.de/SiteGlobals/Frontend/JavaScript/init/addon_matomo.js?v=5
+# https://www.saarland.de/matomo/
+
+# Berlin
+# https://www.berlin.de/-wt-safetag.js
+0.0.0.0 w7.berlin.de
+
+# Hamburg
+0.0.0.0 script.ioam.de
+0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 static.etracker.com
+0.0.0.0 www.etracker.de
+0.0.0.0 code.etracker.com
+
+# Bremen
+# Tracker unter https://www.bremen.de/js/matomo.js?version=1.0.916
+0.0.0.0 track-bremen.de
