@@ -1,21 +1,3 @@
-# EXTRAS LIST: https://raw.githubusercontent.com/dex4k/dex4kblocklist/master/dex4kblocklistextras.txt
-
-# This is the "SAFE LIST" tested to not break legitimate functionality for commonly used software
-# The extras list linked above blocks more tracking but may also interfere with use of legitimate apps (e.g. Facebook, Apple Maps)
-# Each entry on the extras list details what trackers it blocks and what collatoral damage it may cause
-# If you want to block all trackers add the extras list too, and keep in mind individual domains can be whitelisted if needed
-
-# Blocklist designed for Pi Hole but can be used for any DNS or HOSTS file ad blocker
-# Hosts here will likely exclude those included in the default Pi Hole lists
-
-# Made from mostly things I blocked on my Pi Hole or found during research
-# Includes ads, analytics/telemetry (is there a difference?), location tracking, and potential malware
-# Re: location tracking keep in mind this list (or any other) can't protect you if you have GPS enabled on your device
-# The goal is to limit how much apps can phone home with approx location from your IP, nearby WiFi SSIDs, etc.
-# You'd be surprised how frequent suspected location traffic is even with location services off
-# Many companies try to estimate it anyway likely for targeted ads etc.
-# That is what the location entries here attempt to limit (not avoid entirely but limit!)
-
 # Xiaomi MIUI phones home a LOT!
 # Ads, trackers, location
 # The extras list contains a MANY more domains for Xiaomi/MIUI services which I recommend adding also if you do not use Mi Account and other MIUI cloud services
